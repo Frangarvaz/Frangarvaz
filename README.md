@@ -1,18 +1,18 @@
- # ¡Hola! Soy Francisco García Vázquez 👋
+# ¡Hola! Soy Francisco García Vázquez 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0066FF&size=22&center=true&vCenter=true&width=750&height=60&lines=SAP+Integration+Developer;ABAP+Cloud+%7C+BTP+Integration+Suite;S%2F4HANA+Cloud+%7C+CDS+Views+%7C+RAP;Huelva%2C+Andaluc%C3%ADa+%F0%9F%87%AA%F0%9F%87%B8)](https://github.com/Frangarvaz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0066FF&size=22&center=true&vCenter=true&width=750&height=60&lines=SAP+ABAP+Cloud+Developer+%7C+C_ABAPD+Certified;BTP+Integration+Suite+%7C+S%2F4HANA+Cloud;CDS+Views+%7C+RAP+%7C+OData+V4;Huelva%2C+Andaluc%C3%ADa+%F0%9F%87%AA%F0%9F%87%B8)](https://github.com/Frangarvaz)
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador con background en **web (JavaScript, Python, WordPress)** especializado en el ecosistema **SAP**. Actualmente cursando formación en **ABAP Cloud** y **SAP BTP Integration Suite**, con un proyecto real desplegado en producción.
+Desarrollador con background en **web (JavaScript, Python, WordPress)** especializado en el ecosistema **SAP**. Formación completada en **ABAP Cloud** y **SAP BTP Integration Suite**, con un proyecto real desplegado y certificación SAP obtenida.
 
-- 🚀 Trabajando en: **Rábida Energy H₂ Integration Hub** — integración SAP BTP → S/4HANA
-- 🌱 Aprendiendo: **ABAP Cloud · RAP · CDS Views · OData v4**
-- 🎯 Objetivo: Certificaciones **C_ABAPD** y **C_CPI**
+- 🚀 Proyecto: **Rábida Energy H₂ Integration Hub** — integración SAP BTP → S/4HANA Cloud
+- 🎓 Certificado: **C_ABAPD** — SAP Certified Development Associate — ABAP Cloud
+- 🌱 Preparando: **C_CPI** — SAP Integration Suite
 - 📍 Ubicación: **Huelva, Andalucía, España**
-- 💼 Disponible para: **Primera posición SAP junior**
+- 💼 Disponible para: **Posición SAP junior · Remoto o presencial**
 
 ---
 
@@ -48,8 +48,33 @@ Desarrollador con background en **web (JavaScript, Python, WordPress)** especial
 
 ### [🔬 Rábida Energy H₂ Integration Hub](https://github.com/Frangarvaz/rabida-energy-h2-integration)
 
-> Integración end-to-end real desplegada en SAP BTP que automatiza la certificación de hidrógeno verde según el estándar EU-GreenH2-2024.
+> Integración end-to-end desplegada en SAP BTP que automatiza la certificación de hidrógeno verde según el estándar EU-GreenH2-2024.
 
-| | |
-|---|---|
-| **St
+| Capa | Stack |
+|------|-------|
+| **Simulación IoT** | Node.js · Express · REST/JSON |
+| **Middleware** | SAP BTP Integration Suite · iFlow · Groovy Script |
+| **Backend** | ABAP Cloud · RAP · CDS Views · OData V4 |
+| **UI** | SAP Fiori Elements Preview |
+| **Datos** | Tabla transparente S/4HANA Cloud |
+
+🌐 [Ver portfolio](https://frangarvaz.github.io/rabida-energy-h2-integration) · 📂 [Ver código](https://github.com/Frangarvaz/rabida-energy-h2-integration)
+
+---
+
+## 🎓 Certificaciones
+
+| Certificación | Estado |
+|--------------|--------|
+| **C_ABAPD** — SAP Certified Development Associate — ABAP Cloud | ✅ Completada · 2026 |
+| **C_CPI** — SAP Integration Suite | 📚 En preparación |
+| **IFCT0097** — SAP Back-End Developer (ABAP Cloud) · Experis Academy | ✅ Completado · 2026 |
+| **IFCT0244** — SAP BTP Integration Suite · Experis Academy | ✅ Completado · 2026 |
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-frangarvaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frangarvaz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-frangarvaz.github.io-4A9EFF?style=for-the-badge&logo=github&logoColor=white)](https://frangarvaz.github.io/rabida-energy-h2-integration)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frangarvaz@gmail.com)
