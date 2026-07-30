@@ -68,6 +68,9 @@ Desarrollador con background en **web (JavaScript, Python, WordPress)** especial
 |--------------|--------|
 | **C_ABAPD** — SAP Certified Development Associate — ABAP Cloud | ✅ Completada · 2026 |
 | **C_CPI** — SAP Certified Integration Developer | ✅ Completada · 2026 |
+| **C_CPE** — SAP Backend Developer (CAP/BTP) | 🔄 En proceso |
+| **C_FIORD** — SAP Fiori Application Developer | 🔄 En proceso |
+| **C_AIG** — SAP Generative AI Developer | 🔄 En proceso |
 | **IFCT0097** — SAP Back-End Developer (ABAP Cloud) · Experis Academy | ✅ Completado · 2026 |
 | **IFCT0244** — SAP BTP Integration Suite · Experis Academy | ✅ Completado · 2026 |
 
