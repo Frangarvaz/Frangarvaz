@@ -10,7 +10,7 @@ Desarrollador con background en **web (JavaScript, Python, WordPress)** especial
 
 - 🚀 Proyecto: **Rábida Energy H₂ Integration Hub** — integración SAP BTP → S/4HANA Cloud
 - 🎓 Certificado: **C_ABAPD** — SAP Certified Development Associate — ABAP Cloud
-- 🌱 Preparando: **C_CPI** — SAP Integration Suite
+- 🎓 Certificado: **C_CPI** — SAP Certified Integration Developer
 - 📍 Ubicación: **Huelva, Andalucía, España**
 - 💼 Disponible para: **Posición SAP junior · Remoto o presencial**
 
@@ -67,7 +67,7 @@ Desarrollador con background en **web (JavaScript, Python, WordPress)** especial
 | Certificación | Estado |
 |--------------|--------|
 | **C_ABAPD** — SAP Certified Development Associate — ABAP Cloud | ✅ Completada · 2026 |
-| **C_CPI** — SAP Integration Suite | 📚 En preparación |
+| **C_CPI** — SAP Certified Integration Developer | ✅ Completada · 2026 |
 | **IFCT0097** — SAP Back-End Developer (ABAP Cloud) · Experis Academy | ✅ Completado · 2026 |
 | **IFCT0244** — SAP BTP Integration Suite · Experis Academy | ✅ Completado · 2026 |
 
