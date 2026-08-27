@@ -1,16 +1,16 @@
 # ¡Hola! Soy Francisco García Vázquez 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0066FF&size=22&center=true&vCenter=true&width=750&height=60&lines=SAP+ABAP+Cloud+Developer+%7C+C_ABAPD+Certified;BTP+Integration+Suite+%7C+S%2F4HANA+Cloud;CDS+Views+%7C+RAP+%7C+OData+V4;Huelva%2C+Andaluc%C3%ADa+%F0%9F%87%AA%F0%9F%87%B8)](https://github.com/Frangarvaz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0066FF&size=22&center=true&vCenter=true&width=750&height=60&lines=SAP+ABAP+Cloud+Developer+%7C+5x+SAP+Certified;BTP+Integration+Suite+%7C+S%2F4HANA+Cloud;CDS+Views+%7C+RAP+%7C+OData+V4;Huelva%2C+Andaluc%C3%ADa+%F0%9F%87%AA%F0%9F%87%B8)](https://github.com/Frangarvaz)
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador con background en **web (JavaScript, Python, WordPress)** especializado en el ecosistema **SAP**. Formación completada en **ABAP Cloud** y **SAP BTP Integration Suite**, con un proyecto real desplegado y certificación SAP obtenida.
+Desarrollador SAP con background en **web (JavaScript, Python, WordPress)** y **5 certificaciones oficiales SAP** obtenidas en 2026. Proyecto real desplegado end-to-end con ABAP Cloud, RAP, OData V4, BTP Integration Suite y SAP Fiori.
 
 - 🚀 Proyecto: **Rábida Energy H₂ Integration Hub** — integración SAP BTP → S/4HANA Cloud
-- 🎓 Certificado: **C_ABAPD** — SAP Certified Development Associate — ABAP Cloud
-- 🎓 Certificado: **C_CPI** — SAP Certified Integration Developer
+- 🎓 **5× SAP Certified** — ABAP Cloud, Fiori, Integration Suite, CAP/BTP, GenAI
+
 - 📍 Ubicación: **Huelva, Andalucía, España**
 - 💼 Disponible para: **Posición SAP junior · Remoto o presencial**
 
