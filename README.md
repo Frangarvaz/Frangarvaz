@@ -6,10 +6,10 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador SAP con background en **web (JavaScript, Python, WordPress)** y **5 certificaciones oficiales SAP** obtenidas en 2026. Proyecto real desplegado end-to-end con ABAP Cloud, RAP, OData V4, BTP Integration Suite y SAP Fiori.
+Desarrollador SAP con background en **web (JavaScript, Python, WordPress)** y **6 certificaciones oficiales SAP** obtenidas en 2026. Proyecto real desplegado end-to-end con ABAP Cloud, RAP, OData V4, BTP Integration Suite y SAP Fiori.
 
 - 🚀 Proyecto: **Rábida Energy H₂ Integration Hub** — integración SAP BTP → S/4HANA Cloud
-- 🎓 **5× SAP Certified** — ABAP Cloud, Fiori, Integration Suite, CAP/BTP, GenAI
+- 🎓 **6× SAP Certified** — ABAP Cloud, Fiori, Integration Suite, CAP/BTP, GenAI
 
 - 📍 Ubicación: **Huelva, Andalucía, España**
 - 💼 Disponible para: **Posición SAP junior · Remoto o presencial**
@@ -70,6 +70,7 @@ Desarrollador SAP con background en **web (JavaScript, Python, WordPress)** y **
 | **C_CPI** — SAP Certified Integration Developer | ✅ Completada · 2026 |
 | **C_CPE** — SAP Backend Developer (CAP/BTP) | ✅ Completada · 2026 |
 | **C_FIORD** — SAP Fiori Application Developer | ✅ Completada · 2026 |
+| **C_BTPSA** — SAP Solution Architect (SAP BTP) | ✅ Completada · 2026 |
 | **C_AIG** — SAP Generative AI Developer | ✅ Completada · 2026 |
 | **IFCT0097** — SAP Back-End Developer (ABAP Cloud) · Experis Academy | ✅ Completado · 2026 |
 | **IFCT0244** — SAP BTP Integration Suite · Experis Academy | ✅ Completado · 2026 |
