@@ -6,13 +6,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador SAP con background en **web (JavaScript, Python, WordPress)** y **6 certificaciones oficiales SAP** obtenidas en 2026. Proyecto real desplegado end-to-end con ABAP Cloud, RAP, OData V4, BTP Integration Suite y SAP Fiori.
+Consultor SAP especializado en **ABAP Cloud** y **SAP BTP**, con **6 certificaciones oficiales** — incluida **P_BTPA Solution Architect (Professional)**. Actualmente **formador SAP** en ABAP Cloud y BTP ([clasesdesap.com](https://clasesdesap.com)). Proyecto real desplegado end-to-end.
 
 - 🚀 Proyecto: **Rábida Energy H₂ Integration Hub** — integración SAP BTP → S/4HANA Cloud
-- 🎓 **6× SAP Certified** — ABAP Cloud, Fiori, Integration Suite, CAP/BTP, GenAI
+- 🎓 **6× SAP Certified** — incluida P_BTPA Solution Architect (Professional)
+- 👨‍🏫 **Formador SAP** — ABAP Cloud y BTP · [clasesdesap.com](https://clasesdesap.com)
 
 - 📍 Ubicación: **Huelva, Andalucía, España**
-- 💼 Disponible para: **Posición SAP junior · Remoto o presencial**
+- 💼 Disponible para: **Consultor SAP · Remoto o presencial**
 
 ---
 
